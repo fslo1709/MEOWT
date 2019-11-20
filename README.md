@@ -1,0 +1,2 @@
+# MEOWT
+First Smart Contract
